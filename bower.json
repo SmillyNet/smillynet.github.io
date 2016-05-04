@@ -1,0 +1,17 @@
+{
+  "name": "smillynet.github.io",
+  "homepage": "https://github.com/smillynet/smillynet.github.io",
+  "authors": [
+    "artbab <artbab95@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
